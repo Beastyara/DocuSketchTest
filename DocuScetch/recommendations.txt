@@ -1,0 +1,13 @@
+I have python file that is called draw_plots
+
+It has only one function called draw_plots. 
+
+When we import that python file 
+and call that function in Jupiter Notebook 
+then it will draw plots to visually check the relations 
+between all pairs of numerical columns. 
+
+I accurately show all steps of my work with this test task
+You can check the comments in python file as well as in jupiter file 
+
+Thank you for your attention 
